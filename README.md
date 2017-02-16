@@ -1,2 +1,2 @@
 # CLI-DataAnalyze
-Command line for data analyze
+Command line for data analyze.
